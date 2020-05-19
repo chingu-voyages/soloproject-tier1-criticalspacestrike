@@ -2,9 +2,10 @@
 Chingu Solo Project - Tier 1 - Critical Space Strike Game
 ## Goal
 Create an arcade style game template in which the player object/image can be moved by the user in a restricted game area, and three rows of enemy objects/images that shift from one side of the game area to the the other in a loop/repeating pattern.
-Most importantly learn, and have fun.
+Most importantly have fun.
 ## Specifications
 * Use CSS HTML and JavaScript (*no frameworks*)
+* Player and enemy objects/images should resize or fit in game screen on all device screen sizes. 
 * The game area should cover most of the screen.  A nav bar/header should give the name of the game, and display a New Game button, A score of some sort, and some images that represent the number of lives the player has.
 * There should be one player/user item in the game area that can be controlled in two ways.  
   - desktop: key presses (this can include the buttons for mobile, but movement should be capable in both ways)
