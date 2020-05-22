@@ -3,6 +3,10 @@ Chingu Solo Project - Tier 1 - Critical Space Strike Game
 ## Goal
 Create an arcade style game template in which the player object/image can be moved by the user in a restricted game area, and three rows of enemy objects/images that shift from one side of the game area to the the other in a loop/repeating pattern.
 Most importantly have fun.
+
+
+![Gif of project running.](CSS-vid-1-xu3j1u.gif)
+
 ## Specifications
 * Use CSS HTML and JavaScript (*no frameworks*)
 * Player and enemy objects/images should resize or fit in game screen on all device screen sizes. 
@@ -15,6 +19,7 @@ Most importantly have fun.
   - Each row of enemies should move as the game runs in a repeatitive, or looping manner horizontally across the game screen.
   - Enemy item movement should be restricted to thier individual rows, and not leave the game screen area. 
   - The rows should not cross, or animation conflict in anyway with player item movement.
+  ![Image of project in mobile view from Chrome web-dev tools](CSS_mobile_view.jpg)
   ## Special notes
   * There is an assets file in this repo for images if you so choose.  You can use whatever image you wish for your player and enemy, but enemys should have a variety of three distinct visual types.  They can be apples, oranges and bananas if you really wish, but that's a lot of fruit. The player object/image can be a ship, or even a fruit bat if you want.  I mean, there is a lot of fruit. 
   
