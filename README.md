@@ -23,7 +23,7 @@ Most importantly have fun.
   - Enemy item movement should be restricted to thier individual rows, and not leave the game screen area. 
   - The rows should not cross, or animation conflict in anyway with player item movement.
   <p align="center">
-  <img src="CSS_mobile_view.JPG" width="200" height="300"/>
+  <img src="CSS_moble_view.JPG" width="200" height="300"/>
   </p>
   ## Special notes
   * There is an assets file in this repo for images if you so choose.  You can use whatever image you wish for your player and enemy, but enemys should have a variety of three distinct visual types.  They can be apples, oranges and bananas if you really wish, but that's a lot of fruit. The player object/image can be a ship, or even a fruit bat if you want.  I mean, there is a lot of fruit. 
