@@ -1,4 +1,11 @@
+
+ 
 # soloproject-tier1-spacestrike
+
+## -WARNING- Before you take on this project, know that the frame rates, and animation process can produce effects similar to strobe lights,  if you have any sensitivity to these things, especially with seizures proceed with extreme caution.
+Also be aware of producing a strobe lighting effect as you create it, even if you are unaffected, this may hurt someone who plays your game. Strobe light effects should not be used in any way. 
+[Strobe light on wikipedia](https://en.wikipedia.org/wiki/Strobe_light)
+
 Chingu Solo Project - Tier 1 - Critical Space Strike Game
 ## Goal
 Create an arcade style game template in which the player object/image can be moved by the user in a restricted game area, and three rows of enemy objects/images that shift from one side of the game area to the the other in a loop/repeating pattern.
