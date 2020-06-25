@@ -26,17 +26,17 @@ Most importantly have fun.
    - [ ] A score of some sort(not required to be altered in gameplay)
    - [ ] some images/objects that represent the number of lives the player has.
 * There should be one player/user item in the game area that can be controlled in two ways.  
-  - [ ] desktop: key presses (this can include the buttons for mobile, but movement should be capable in both ways)
-  - [ ] mobile: buttons
+   - [ ] desktop: key presses (this can include the buttons for mobile, but movement should be capable in both ways)
+   - [ ] mobile: buttons
  
 * Player item movement should stay within the game area at all times. The Player item should not be able to cross paths with the enemy items.
 * Three rows of enemy items. Each row should contain at least five enemies.
-  - [ ] Each row of enemies should move as the game runs in a repeatitive, or looping manner horizontally across the game screen.
-  - [ ] Enemy item movement should be restricted to thier individual rows, and not leave the game screen area. 
-  - [ ] The rows should not cross, or animation conflict in anyway with player item movement.
- * Documentation / Error handling: 
- - [ ] Your repo needs to have a robust README.md
- - [ ] Make sure that there are no errors in the developer console before submitting
+   - [ ] Each row of enemies should move as the game runs in a repeatitive, or looping manner horizontally across the game screen.
+   - [ ] Enemy item movement should be restricted to thier individual rows, and not leave the game screen area. 
+   - [ ] The rows should not cross, or animation conflict in anyway with player item movement.
+* Documentation / Error handling: 
+   - [ ] Your repo needs to have a robust README.md
+   - [ ] Make sure that there are no errors in the developer console before submitting
  
   <p align="center">
   <img src="CSS_moble_view.JPG" width="200" height="300"/>
