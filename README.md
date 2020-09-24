@@ -22,7 +22,7 @@ Most importantly have fun.
 * Player and enemy objects/images should resize or fit in game screen on all device screen sizes. 
 * The game area should cover most of the screen.  
 * A nav bar/header should give the name of the game and include:
-   - [ ] and display a New Game button
+   - [ ] Display a New Game button
    - [ ] A score of some sort(not required to be altered in gameplay)
    - [ ] some images/objects that represent the number of lives the player has.
 * There should be one player/user item in the game area that can be controlled in two ways.  
@@ -31,7 +31,7 @@ Most importantly have fun.
  
 * Player item movement should stay within the game area at all times. The Player item should not be able to cross paths with the enemy items.
 * Three rows of enemy items. Each row should contain at least five enemies.
-   - [ ] Each row of enemies should move as the game runs in a repeatitive, or looping manner horizontally across the game screen.
+   - [ ] Each row of enemies should move as the game runs in a repetatitive, or looping manner horizontally across the game screen.
    - [ ] Enemy item movement should be restricted to thier individual rows, and not leave the game screen area. 
    - [ ] The rows should not cross, or animation conflict in anyway with player item movement.
 * Documentation / Error handling: 
@@ -51,4 +51,4 @@ Most importantly have fun.
  - [ ] A game start screen, so that the game only starts after player/user pushes some kind of 'start game' button.
  - [ ] A pause button.   A button that in some way stops the animation in process, disables the player movement, and upon 'un-pausing' The animation resumes from it's paused position. 
  - [ ] If you have even more time, tier two may be right for you.  
- - [ ] Feel free to write the animatimation process for the 'enemy' with CSS. If you are not familiar with Game mechanics, coordinate systems and data structures, the animation process with JavaScript can be challenging.  If you wish to try this out, after you have a working version to submit, don't let your working submission get lost.  Make a new repo for your challenge mode submission.
+ - [ ] Feel free to write the animation process for the 'enemy' with CSS. If you are not familiar with Game mechanics, coordinate systems and data structures, the animation process with JavaScript can be challenging.  If you wish to try this out, after you have a working version to submit, don't let your working submission get lost.  Make a new repo for your challenge mode submission.
