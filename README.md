@@ -7,7 +7,7 @@ Also be aware of producing a strobe lighting effect as you create it, even if yo
 [Strobe light on wikipedia](https://en.wikipedia.org/wiki/Strobe_light)
 
 
-## Goal
+## Overview
 Create an old school arcade style game template in which the player object/image can be moved by the user in a restricted game area, and three rows of enemy objects/images that shift from one side of the game area to the the other in a loop/repeating pattern.
 Most importantly have fun.
 
@@ -16,6 +16,19 @@ Most importantly have fun.
 ![Gif of project running.](CSS-vid-1-xu3j1u.gif)
 
   </p>
+  
+## About Chingu
+
+If you aren’t yet a member of Chingu we invite you to join us. We help our 
+members transform what they’ve learned in courses & tutorials into the 
+practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them 
+into practice while gaining new “soft” skills like communication, 
+collaboration, and Agile project management. The types of skills that 
+help real-world teams get things done!
+
+You can learn more and join us at [chingu.io](https://chingu.io).
 
 ## Specifications
 * Use CSS HTML and JavaScript (*no frameworks*)
